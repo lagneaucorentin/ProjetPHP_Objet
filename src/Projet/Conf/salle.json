@@ -1,0 +1,23 @@
+{
+  "salle":
+  {
+    "reunionPHP": {
+      "description" : "Salle de réunion",
+      "objectif" : "Discussion sur l'avenir du PHP.",
+      "nombrePlace" : 12,
+      "adresse" : "31 rue du coin, Lyon",
+      "horaireDebut" : "2018-01-25 14:00:00",
+      "horaireFin" : "2018-01-25 17:00:00",
+      "salleChoisie" : "A151"
+    },
+    "apprentissageJAVA": {
+      "description" : "Salle Demi-Lune",
+      "objectif" : "Enseignement sur le langage JAVA.",
+      "nombrePlace" : 12,
+      "adresse" : "31 rue du coin, Lyon",
+      "horaireDebut" : "2018-02-12 10:00:00",
+      "horaireFin" : "2018-02-12 15:00:00",
+      "salleChoisie" : "Demi-Lune"
+    }
+  }
+}

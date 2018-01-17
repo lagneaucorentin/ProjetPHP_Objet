@@ -1,0 +1,11 @@
+{
+  "routes": {
+    "showAllRoom": {
+      "path": "/allEvent",
+      "methods": [
+        "GET"
+      ],
+      "action": "Projet:Controllers:EventController::showAllEvent"
+    }
+  }
+}
